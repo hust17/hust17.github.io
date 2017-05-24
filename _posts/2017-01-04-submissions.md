@@ -32,7 +32,7 @@ library through collaboration with ACM SIGHPC.
   <p>
     <span style="font-size:20px;">
       <a href="https://easychair.org/conferences/?conf=hust17">
-        <i class="fa fa-sign-in">&nbsp;<b>Click here to submit.</b></i>
+        <i class="fa fa-sign-in">&nbsp;<font size="5">Click here to submit.</font></i>
       </a>
     </span>
   </p>

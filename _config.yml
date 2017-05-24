@@ -15,9 +15,9 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "HUST 2017: Fourth International Workshop on HPC User Support Tools"
-keywords:    "HPC, hpc, support, user, build, tools, sc16, hust16, hust, devops, supercomputing"
+keywords:    "HPC, hpc, support, user, build, tools, sc17, hust17, hust, devops, supercomputing"
 description: "Fourth International Workshop on HPC User Support Tools"
-source_link: "https://github.com/hust16/hust17.github.io"
+source_link: "https://github.com/hust17/hust17.github.io"
 favicon:     "img/wrench.png"
 touch_icon:  "imp/wrench.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
@@ -30,9 +30,11 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#e96725'
   turquoise: '#0fbfcf'
-
+  red:	     '#e42f43'
+  grey:	     '#636363'
+                            
 kramdown:
   auto_ids:  false
 
