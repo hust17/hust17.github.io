@@ -20,13 +20,12 @@ icon-title: true
 ## Program Chairs
 
 * [Todd Gamblin](http://people.llnl.gov/gamblin2), Lawrence Livermore National Laboratory, USA
-* Vera Hansper, CSC - IT Center for Science, Finland
+* Olli-Pekka Lehto, Jump Trading, LLC, United Kingdom
 
 ## Program Committee
 
 * Daniel Ahlin, PDC HPC Center, KTH Royal Institute of Technology, Sweden
 * Erik Engquist, Rice University, USA
-* Wolfgang Frings, Juelich Supercomputing Centre, Germany
 * Todd Gamblin, Lawrence Livermore National Laboratory, USA
 * Andy Georges, Ghent University, Belgium
 * Christopher Harris, Pawsey Supercomputing Centre, Australia
