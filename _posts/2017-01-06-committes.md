@@ -34,7 +34,7 @@ icon-title: true
 * Paul Kolano, NASA Ames Research Center, USA
 * John C. Linford, ParaTools, USA
 * Dave Montoya, Los Alamos National Laboratory, USA
-# Ryan Novosielski, Rutgurs University, USA
+* Ryan Novosielski, Rutgurs University, USA
 * Randy Schauer, Raytheon Company, USA
 * Gary B. Skouson, Pacific Northwest Nation Laboratory, USA
 * William Scullin, Argonne National Laboratory, USA
