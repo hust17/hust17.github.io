@@ -26,7 +26,6 @@ icon-title: true
 
 * Daniel Ahlin, PDC HPC Center, KTH Royal Institute of Technology, Sweden
 * Erik Engquist, Rice University, USA
-* Todd Gamblin, Lawrence Livermore National Laboratory, USA
 * Andy Georges, Ghent University, Belgium
 * Elsa Gonsiorowski, Lawrence Livermore National Laboratory, USA
 * Christopher Harris, Pawsey Supercomputing Centre, Australia
@@ -35,7 +34,7 @@ icon-title: true
 * John C. Linford, ParaTools, USA
 * Dave Montoya, Los Alamos National Laboratory, USA
 * Ryan Novosielski, Rutgurs University, USA
-* Randy Schauer, Raytheon Company, USA
 * Gary B. Skouson, Pacific Northwest Nation Laboratory, USA
 * William Scullin, Argonne National Laboratory, USA
+* Jean Shuler, Lawrence Livermore National Laboratory, USA
 * Karen Tomko, Ohio Supercomputing Center, USA
