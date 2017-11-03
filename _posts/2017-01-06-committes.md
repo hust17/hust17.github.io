@@ -9,18 +9,18 @@ icon-title: true
 
 ## Organizing Committee
 
-* Christopher Bording, Pawsey Supercomputing Centre, Australia
+* Christopher Bording, IBM Research, Hartree Centre, United Kingdom
 * [Todd Gamblin](http://people.llnl.gov/gamblin2), Lawrence Livermore National Laboratory, USA
-* Olli-Pekka Lehto, Jump Trading, LLC, United Kingdom
+* Olli-Pekka Lehto, Jump Trading, LLC, Singapore
 
 ## General Chair
 
-* Christopher Bording, Pawsey Supercomputing Centre, Australia
+* Christopher Bording, IBM Research, Hartree Centre, United Kingdom
 
 ## Program Chairs
 
 * [Todd Gamblin](http://people.llnl.gov/gamblin2), Lawrence Livermore National Laboratory, USA
-* Olli-Pekka Lehto, Jump Trading, LLC, United Kingdom
+* Olli-Pekka Lehto, Jump Trading, LLC, Singapore
 
 ## Program Committee
 
